@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "is-prime": "^1.0.1"
+  }
+} 
